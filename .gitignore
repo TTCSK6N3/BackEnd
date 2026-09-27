@@ -1,0 +1,10 @@
+## Visual Studio / .NET 9
+.vs/
+bin/
+obj/
+appsettings.Development.json
+*.user
+*.suo
+
+## VS Code
+.vscode/
